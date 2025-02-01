@@ -1,5 +1,7 @@
 # What is Application Gateway :
 <p>Azure Application Gateway v2 is the latest version of Azure's web traffic load balancer, offering several enhancements over its predecessor, Application Gateway v1. It operates at the application layer (OSI layer 7) and provides advanced routing capabilities based on HTTP request attributes such as URI path or host headers.
+
+[For more details!](https://github.com/srinivasan2022/Azure_Learning_Basics/blob/main/Application_Gateway.md)
 </p>
 
 ## Architecture Diagram :
