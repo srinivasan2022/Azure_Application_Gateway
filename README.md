@@ -20,17 +20,17 @@
 #### Resources :
 ![RG](Images/rg.png)
 
-##### When browse the FDQN of amazon-web app
+### When browse the FDQN of amazon-web app
 ![amazon-web-app](Images/amazon-app.png)
 
-##### When browse the FDQN of flipkart-web app
+### When browse the FDQN of flipkart-web app
 ![flipkart-web-app](Images/flipkart-app.png)
 
-##### Browse the Public-IP of AppGateway based on different path
+### Browse the Public-IP of AppGateway based on different path
 
-###### When browse <AppGW-PublicIP/amazon/index.html>
+#### When browse <AppGW-PublicIP/amazon/index.html>
 ![AppGW-amazon](Images/amazon-appGW.png)
-###### When browse <AppGW-PublicIP/flipkart/index.html>
+#### When browse <AppGW-PublicIP/flipkart/index.html>
 ![AppGW-flipkart](Images/flipkart-appGW.png)
 
 
